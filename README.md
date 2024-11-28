@@ -70,17 +70,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-
+<img align="right" alt="Coding" width="290" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhersara&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhersara" /></p>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jhersara&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jhersara&theme=dark" alt="anii693" /></p>
-<br><br>
 
 <!-- Secion de la esnake-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
