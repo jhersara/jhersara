@@ -1,3 +1,4 @@
+<!-- Configuracion de los estilos de presentacion-->
 
 <h1 align="center"><b>Hi , I'm JhonsiDevs </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
@@ -7,7 +8,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -65,5 +66,26 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhersara&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhersara" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jhersara&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jhersara&theme=dark" alt="anii693" /></p>
+<br><br>
+
+<!-- Secion de la esnake-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
+
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
