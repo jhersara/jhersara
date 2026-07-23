@@ -29,9 +29,29 @@ I enjoy exploring new technologies, sharpening my craft, and contributing to the
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+
+</div>
+
+<h3 align="center">Back-End Development</h3>
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+
+</div>
+
+<h3 align="center">Mobile & Desktop</h3>
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white) | ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) |
 
 </div>
 
@@ -63,7 +83,7 @@ I enjoy exploring new technologies, sharpening my craft, and contributing to the
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=jhersara&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=jhersara&theme=react&hide_border=true&background=0D1117" />
 
-
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhersara&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -74,9 +94,6 @@ I enjoy exploring new technologies, sharpening my craft, and contributing to the
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linerasoftw@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </div>
