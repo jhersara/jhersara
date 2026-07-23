@@ -63,7 +63,7 @@ I enjoy exploring new technologies, sharpening my craft, and contributing to the
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=jhersara&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=jhersara&theme=react&hide_border=true&background=0D1117" />
 
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhersara&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
 
 </div>
 
