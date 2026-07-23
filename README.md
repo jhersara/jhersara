@@ -97,3 +97,6 @@ I enjoy exploring new technologies, sharpening my craft, and contributing to the
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
+</div>
